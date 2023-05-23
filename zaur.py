@@ -1,3 +1,4 @@
 print('Her kese salam')
-print('tommy')
+print('a')
 print('salam')
+print(123)
